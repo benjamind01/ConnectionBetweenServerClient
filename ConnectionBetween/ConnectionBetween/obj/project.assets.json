@@ -88,7 +88,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\SESA666026\\source\\repos\\ConnectionBetweenServerClient\\ConnectionBetweenServerClient\\ConnectionBetweenServerClient\\ConnectionBetween\\ConnectionBetween\\Server.csproj",
-      "projectName": "ConnectionBetween",
+      "projectName": "Server",
       "projectPath": "C:\\Users\\SESA666026\\source\\repos\\ConnectionBetweenServerClient\\ConnectionBetweenServerClient\\ConnectionBetweenServerClient\\ConnectionBetween\\ConnectionBetween\\Server.csproj",
       "packagesPath": "C:\\Users\\SESA666026\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SESA666026\\source\\repos\\ConnectionBetweenServerClient\\ConnectionBetweenServerClient\\ConnectionBetweenServerClient\\ConnectionBetween\\ConnectionBetween\\obj\\",

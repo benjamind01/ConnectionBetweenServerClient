@@ -71,7 +71,7 @@ namespace Client
 
         private void button2_Click(object sender, EventArgs e)
         {
-            client.Send(msg.Text);
+            client.Send(msg.Text + "\r\n");
             msg.Text = "";
         }
     }
