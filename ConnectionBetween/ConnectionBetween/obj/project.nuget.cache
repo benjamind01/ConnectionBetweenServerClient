@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mEy8og/LGKBhIqDq2F2PrrRXVvxJoG2ATCg/EyPdNkqX6q6vmeZlrWcRVsckbI0Vd8Uw0IFcwfqFgtEcHUQ0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SESA666026\\source\\repos\\ConnectionBetweenServerClient\\ConnectionBetweenServerClient\\ConnectionBetweenServerClient\\ConnectionBetween\\ConnectionBetween\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SESA666026\\.nuget\\packages\\supersimpletcp\\2.6.1.1\\supersimpletcp.2.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
